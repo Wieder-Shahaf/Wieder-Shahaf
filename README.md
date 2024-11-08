@@ -9,11 +9,11 @@
   <li><b><a href="https://github.com/Wieder-Shahaf/Intro-To-Data-Analysis">Data Analysis with Python</a></b><br>
     Conducted exploratory data analysis and visualizations using Python libraries, deriving actionable insights from complex datasets.
   </li>
-  <li><b>Data Structures & Algorithms</b><br>
-    Implemented and optimized data structures and algorithms to solve computational challenges, improving processing efficiency.
-  </li>
   <li><b>Java Software Engineering Project</b><br>
     Developed a Java application using OOP principles and design patterns, with robust error handling to solve real-world problems.
+  </li>
+  <li><b>Data Structures & Algorithms</b><br>
+    Implemented and optimized data structures and algorithms to solve computational challenges, improving processing efficiency.
   </li>
   <li><b>Database Management with SQL & Django</b><br>
     Designed and managed relational databases for web applications, focusing on data modeling and dynamic content integration with SQL and Django.
