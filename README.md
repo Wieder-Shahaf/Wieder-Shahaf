@@ -6,7 +6,7 @@
 <h2>👨‍💻 PERSONAL PROJECTS </h2>
 
 <ul>
-   <li><b>Data Analysis with Python</b>: A hands-on introduction to data analysis using Python. <a href="https://github.com/Wieder-Shahaf/Intro-To-Data-Analysis">Explore the project here.</a>
+  <li><b><a href="https://github.com/Wieder-Shahaf/Intro-To-Data-Analysis">Data Analysis with Python</a></b><br>
     Conducted exploratory data analysis and visualizations using Python libraries, deriving actionable insights from complex datasets.
   </li>
   <li><b>Data Structures & Algorithms</b><br>
