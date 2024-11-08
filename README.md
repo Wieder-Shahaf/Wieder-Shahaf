@@ -15,7 +15,7 @@
   <li><b>Database Management with SQL & Django</b><br>
     Designed and managed relational databases for web applications, focusing on data modeling and dynamic content integration with SQL and Django.
   </li>
-  <li><b>Data Analysis with Python</b><br>
+  <li><b>Data Analysis with Python</b>(https://github.com/Wieder-Shahaf/Intro-To-Data-Analysis)<br>
     Conducted exploratory data analysis and visualizations using Python libraries, deriving actionable insights from complex datasets.
   </li>
   <li><b>Machine Learning Model Development</b><br>
