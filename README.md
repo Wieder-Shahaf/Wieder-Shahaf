@@ -21,7 +21,7 @@
   <li><b><a href="https://github.com/Wieder-Shahaf/Statistical-Machine-Learning">Machine Learning Model Development</a></b><br>
     Built and validated predictive models with algorithms like Random Forest, Stochastic Gradient Descent, AdaBoost, Principal Component Analysis, k-Nearest Neighbors, Support Vector Machines, and Logistic Regression to forecast outcomes and evaluate performance on historical data.
   </li>
-  <li><b><a href="https://github.com/Wieder-Shahaf/C-Projects">C Programming Projects</a></b><br>
+  <li><b><a href="https://github.com/Wieder-Shahaf/-C-Projects">C Programming Projects</a></b><br>
     Developed and optimized various C programs, including system-level applications and algorithmic challenges, demonstrating expertise in memory management, pointers, and performance optimization.
 </li>
 </ul>
