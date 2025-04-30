@@ -6,17 +6,17 @@
 <h2>👨‍💻 PERSONAL PROJECTS </h2>
 
 <ul>
-  <li><b><a href="https://github.com/Wieder-Shahaf/Deep-Learning-Advance-Machine-Learning-">Data Analysis with Python</a></b><br>
+  <li><b><a href="https://github.com/Wieder-Shahaf/Deep-Learning-Advance-Machine-Learning-">Deep Learning Advance Machine Learning</a></b><br>
     This repository covers deep learning concepts such as Convolutional Neural Networks, Generative Adversarial Networks, 
     Recurrent Neural Networks, Adversarial Attacks, and Contrastive Learning. Each exercise demonstrates practical implementation, 
     optimization techniques, and model evaluation strategies.
   </li>
-  <li><b><a href="https://github.com/Wieder-Shahaf/Deep-Learning-Advance-Machine-Learning-">Data Analysis with Python</a></b><br>
+  <li><b><a href="https://github.com/Wieder-Shahaf/Artificial-Intelligence-Foundations-and-Applications">Artificial Intelligence</a></b><br>
     This repository contains exercises focused on fundamental AI techniques including deterministic and heuristic search, 
     logical inference, stochastic environments, and Markov Decision Processes (MDPs). 
     Each exercise emphasizes practical implementation, reasoning strategies, and model evaluations within diverse problem settings.
   </li>
-  <li><b><a href="https://github.com/Wieder-Shahaf/Artificial-Intelligence-Foundations-and-Applications">Data Analysis with Python</a></b><br>
+  <li><b><a href="https://github.com/Wieder-Shahaf/Intro-To-Data-Analysis">Data Analysis with Python</a></b><br>
     Conducted exploratory data analysis and visualizations using Python libraries, deriving actionable insights from complex datasets.
   </li>
   <li><b><a href="https://github.com/Wieder-Shahaf/Java-Software-Engineering-Projects">Java Software Engineering Project</a></b><br>
