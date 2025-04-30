@@ -16,11 +16,8 @@
     logical inference, stochastic environments, and Markov Decision Processes (MDPs). 
     Each exercise emphasizes practical implementation, reasoning strategies, and model evaluations within diverse problem settings.
   </li>
-  <li><b><a href="https://github.com/Wieder-Shahaf/Intro-To-Data-Analysis">Data Analysis with Python</a></b><br>
-    Conducted exploratory data analysis and visualizations using Python libraries, deriving actionable insights from complex datasets.
-  </li>
-  <li><b><a href="https://github.com/Wieder-Shahaf/Java-Software-Engineering-Projects">Java Software Engineering Project</a></b><br>
-    Developed a Java application using OOP principles and design patterns, with robust error handling to solve real-world problems.
+  <li><b><a href="https://github.com/Wieder-Shahaf/Statistical-Machine-Learning">Machine Learning Model Development</a></b><br>
+    Built and validated predictive models with algorithms like Random Forest, Stochastic Gradient Descent, AdaBoost, Principal Component Analysis, k-Nearest Neighbors, Support Vector Machines, and Logistic Regression to forecast outcomes and evaluate performance on historical data.
   </li>
   <li><b><a href="https://github.com/Wieder-Shahaf/DS-and-Alg">Data Structures & Algorithms</a></b><br>
     Implemented and optimized data structures and algorithms to solve computational challenges, improving processing efficiency.
@@ -28,8 +25,11 @@
   <li><b><a href="https://github.com/Wieder-Shahaf/Database-Management">Database Management with SQL & Django</a></b><br>
     Designed and managed relational databases for web applications, focusing on data modeling and dynamic content integration with SQL and Django.
   </li>
-  <li><b><a href="https://github.com/Wieder-Shahaf/Statistical-Machine-Learning">Machine Learning Model Development</a></b><br>
-    Built and validated predictive models with algorithms like Random Forest, Stochastic Gradient Descent, AdaBoost, Principal Component Analysis, k-Nearest Neighbors, Support Vector Machines, and Logistic Regression to forecast outcomes and evaluate performance on historical data.
+  <li><b><a href="https://github.com/Wieder-Shahaf/Intro-To-Data-Analysis">Data Analysis with Python</a></b><br>
+    Conducted exploratory data analysis and visualizations using Python libraries, deriving actionable insights from complex datasets.
+  </li>
+  <li><b><a href="https://github.com/Wieder-Shahaf/Java-Software-Engineering-Projects">Java Software Engineering Project</a></b><br>
+    Developed a Java application using OOP principles and design patterns, with robust error handling to solve real-world problems.
   </li>
   <li><b><a href="https://github.com/Wieder-Shahaf/-C-Projects">C Programming Projects</a></b><br>
     A collection of C exercises focused on data structures, algorithms, and optimization. These projects cover key topics like memory management, set operations, and algorithm efficiency.
